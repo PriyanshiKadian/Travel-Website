@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.cleartext {
+    clear: both;
+}
+
+.front {
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 250px;
+    color: white;
+    text-align: center;
+    padding: 9px;
+}
+
+.im {
+    background-image: url("../img/pexels-pixabay-210012.jpg");
+    background-position: top;
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 70px;
+}
+
+nav {
+    height: 70px;
+    word-spacing: 6px;
+    padding: 3.5rem;
+    text-align: right;
+    max-width: 1200px;
+    width: 90%;
+
+}
+
+nav ul li {
+    display: inline;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h6 {
+    margin-bottom: 10px;
+}
+
+h5 {
+    display: inline;
+    background-color: white;
+    color: lightpink;
+    border: 2px white solid;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+div.one {
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+div.first {
+    width: 50%;
+    float: left;
+}
+
+div.sec {
+    width: 48%;
+    float: left;
+    margin-left: 5px;
+    padding-top: 10px;
+}
+
+.one img {
+    width: 100%;
+    height: 197px;
+}
+
+div.two {
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.back {
+    background-color: lightgrey;
+    padding-top: 70px;
+    padding-bottom: 60px;
+    margin-bottom: 50px;
+}
+
+div.fi {
+    width: 50%;
+    float: left;
+    margin-left: 15px;
+}
+
+div.se {
+    width: 48%;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.two img {
+    width: 100%;
+    height: 197px;
+}
+
+div.neeche {
+    width: 50%;
+    margin: 0 auto;
+}
+
+div.ek {
+    width: 33.33%;
+    float: left;
+    background-color: rgb(2, 2, 48);
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+div.do {
+    width: 33.33%;
+    float: left;
+    background-color: rgb(223, 87, 87);
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+div.teen {
+    width: 33.33%;
+    float: left;
+    background-color: rgb(2, 2, 48);
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+
+.neeche p {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: rgb(7, 7, 57);
+    color: white;
+    padding: 40px;
+    margin-top: 20px;
+    text-align: center;
+    word-spacing: 15px;
+}

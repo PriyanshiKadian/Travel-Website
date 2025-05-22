@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    
+}
+.cleartext{
+    clear:both;
+}
+
+
+nav{
+    height:70px;
+    background-color:rgb(16, 16, 85);
+    word-spacing: 6px;
+    padding:3.5rem;
+    text-align: right;
+    padding-right:23em;
+}
+nav ul li{
+    display:inline;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+div.top{
+    margin:0 auto;
+    width:65%;
+    padding-top:30px;
+    padding-left:40px;
+}
+
+h1{
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 4px solid rgb(208, 23, 23);
+}
+span{
+    color:red;
+}
+
+input[type="submit"]{
+    background-color: red;
+    margin-left:150px;
+    border:none;
+    text-transform: uppercase;
+    color:white;
+    padding:7px;
+    margin-top:20px;
+}
+
+input[type="text"],input[type="email"],input[type="phone"]{
+    width:100%;
+}
+
+
+img{
+    width:300px;
+    height:300px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+div.add{
+    width:27vw;
+    height:80vh;
+    padding-left:10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+    float:left;
+   
+}
+div.contact{
+    width:27vw;
+    height:80vh;
+    background-color: aliceblue;
+    padding:5px;
+    float:left;
+    margin-left:30px;
+}
